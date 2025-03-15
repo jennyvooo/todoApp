@@ -1,7 +1,7 @@
 {
     "expo": {
-      "name": "Your App Name",
-      "slug": "your-app-name",
+      "name": "todoApp",
+      "slug": "todoApp",
       "platforms": ["ios", "android", "web"],
       "version": "1.0.0",
       "orientation": "portrait",
